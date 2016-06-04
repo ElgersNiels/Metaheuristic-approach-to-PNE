@@ -83,20 +83,3 @@ SHC: [10, 13, 14] 0.0 32.002812
 SA: [10, 13, 14] 0.0 31.41795
 CLO: [10, 13, 14] 0.0 84.75223
 MIP: [10, 13, 14] 54949.526333
--- Summary -- 
-*SHC*
-Found PNE: 6/10
-Found Time: 67.702831ms
-Approx Average: 0.4901684808506218
-*SA*
-Found PNE: 6/10
-Found Time: 29.784159ms
-Approx Average: 0.4901684808506218
-*CLO*
-Found PNE: 6/10
-Found Time: 133.626141ms
-Approx Average: 0.4901684808506218
-*MIP*
-Found PNE: 6/10
-Found Time: 42524.3392905ms
-Not Found Time: 85444.90722825ms

@@ -83,20 +83,3 @@ SHC: [31, 16, 22] 0.0 172.952624
 SA: [31, 16, 22] 0.0 342.713208
 CLO: [33, 27, 20] 0.0 63.792018
 MIP: [13, 29, 42] 437464.978348
--- Summary -- 
-*SHC*
-Found PNE: 7/10
-Found Time: 409.886863ms
-Approx Average: 0.3550369107179023
-*SA*
-Found PNE: 7/10
-Found Time: 247.532141ms
-Approx Average: 0.3550369107179023
-*CLO*
-Found PNE: 7/10
-Found Time: 293.415018ms
-Approx Average: 0.3550369107179023
-*MIP*
-Found PNE: 7/10
-Found Time: 469457.3477424286ms
-Not Found Time: 665596.3901683334ms

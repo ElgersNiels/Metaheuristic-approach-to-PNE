@@ -83,20 +83,3 @@ SHC: [3, 6, 5, 5, 4] 0.0 21.517623
 SA: [3, 3, 5, 5, 6] 0.0 0.559925
 CLO: [3, 6, 5, 5, 4] 0.0 3.946587
 MIP: [3, 3, 5, 5, 6] 830708.459532
--- Summary -- 
-*SHC*
-Found PNE: 9/10
-Found Time: 24.383104ms
-Approx Average: 0.23334398425404004
-*SA*
-Found PNE: 9/10
-Found Time: 16.076724ms
-Approx Average: 0.23334398425404004
-*CLO*
-Found PNE: 9/10
-Found Time: 31.874662ms
-Approx Average: 0.23334398425404004
-*MIP*
-Found PNE: 9/10
-Found Time: 633587.719608889ms
-Not Found Time: 1113392.368742ms

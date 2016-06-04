@@ -83,20 +83,3 @@ SHC: [8, 2, 18] 0.0 33.973271
 SA: [8, 2, 18] 0.0 8.578684
 CLO: [8, 2, 18] 0.0 17.657322
 MIP: [8, 2, 18] 7243.619174
--- Summary -- 
-*SHC*
-Found PNE: 5/10
-Found Time: 19.18238ms
-Approx Average: 1.5301160687260933
-*SA*
-Found PNE: 5/10
-Found Time: 36.813746ms
-Approx Average: 1.5301160687260933
-*CLO*
-Found PNE: 5/10
-Found Time: 19.148677ms
-Approx Average: 1.5301160687260933
-*MIP*
-Found PNE: 5/10
-Found Time: 5929.4570976ms
-Not Found Time: 32117.706120799998ms

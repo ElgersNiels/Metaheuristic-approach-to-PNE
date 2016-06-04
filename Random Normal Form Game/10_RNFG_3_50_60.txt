@@ -83,20 +83,3 @@ SHC: [8, 42, 24] 0.0 116.218791
 SA: [8, 42, 24] 0.0 875.856377
 CLO: [8, 42, 24] 0.0 389.671563
 MIP: [8, 42, 24] 536268.650336
--- Summary -- 
-*SHC*
-Found PNE: 8/10
-Found Time: 921.445175ms
-Approx Average: 0.04623894276776071
-*SA*
-Found PNE: 8/10
-Found Time: 297.509031ms
-Approx Average: 0.04623894276776071
-*CLO*
-Found PNE: 8/10
-Found Time: 788.013595ms
-Approx Average: 0.04623894276776071
-*MIP*
-Found PNE: 8/10
-Found Time: 818496.07012725ms
-Not Found Time: 1695528.664595ms

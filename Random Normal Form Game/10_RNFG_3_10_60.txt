@@ -83,20 +83,3 @@ SHC: [1, 5, 1] 0.0 9.161933
 SA: [1, 5, 1] 0.0 0.998036
 CLO: [1, 5, 1] 0.0 3.10196
 MIP: [1, 5, 1] 13730.667472
--- Summary -- 
-*SHC*
-Found PNE: 8/10
-Found Time: 4.860988ms
-Approx Average: 0.42953452147608856
-*SA*
-Found PNE: 8/10
-Found Time: 2.006778ms
-Approx Average: 0.42953452147608856
-*CLO*
-Found PNE: 8/10
-Found Time: 2.465828ms
-Approx Average: 0.42953452147608856
-*MIP*
-Found PNE: 8/10
-Found Time: 3731.401652375ms
-Not Found Time: 16070.4226395ms
